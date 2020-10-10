@@ -10,7 +10,7 @@
 3. 配置信息仅自己可见，不用担心泄露给第三方
 4. 可定时，不用担心忘记打卡
 
-## 获取Cookie
+## 获取Cookie
 1. 打开浏览器，按F12打开控制台
 2. 选Network
 ![picture](https://raw.githubusercontent.com/SuInk/PictureBed/main/picture/83e305943fc214399f7445be45ccf3ca1602332571.png)
