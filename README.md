@@ -6,8 +6,11 @@
 
 ### 为什么采用云函数？
 1. 无需购买服务器，对小白友好
+
 2. 有免费额度，无需额外付费
+
 3. 配置信息仅自己可见，不用担心泄露给第三方
+
 4. 可定时，不用担心忘记打卡
 
 ## 获取Cookie
@@ -26,7 +29,7 @@
 1. 下载此项目，选择Download Zip
 ![picture](https://raw.githubusercontent.com/SuInk/PictureBed/main/picture/b41e3bcef62c672ff035ef0e728e9cce1602332572.png)
 2. 下载完成后，用360压缩解压文件，请确保index.js在文件夹根目录
-3. 访问https://cloud.tencent.com/product/scf，点击管理控制台
+3. 访问https://cloud.tencent.com/product/scf ，点击管理控制台
 ![picture](https://raw.githubusercontent.com/SuInk/PictureBed/main/picture/0968c6b7ce60fdd42f1270c08e442be91602332574.png)
 4. 函数服务-新建云函数，填写函数名称(csu-auto-sign)，选择nodejs10.15、空白函数，点击下一步
 ![picture](https://raw.githubusercontent.com/SuInk/PictureBed/main/picture/90180b6eb56ae6dab32338a303df026a1602332576.png)
